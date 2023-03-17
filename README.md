@@ -1,8 +1,6 @@
 # ExperimentoChatGpt
 # Respostas
 
-# Respostas
-
 1. O que é programação orientada a objetos?
 
 R: Programação orientada a objetos (POO) é um paradigma de programação que se concentra na definição de objetos e suas interações para resolver problemas. Em POO, um objeto é uma instância de uma classe, que encapsula dados e comportamentos relacionados a um conceito ou entidade específica. Através do uso de classes, herança, polimorfismo e outros conceitos, a POO permite aos programadores construir programas mais modularizados, flexíveis e fáceis de manter.
